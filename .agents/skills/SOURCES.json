@@ -1,0 +1,162 @@
+{
+  "source_repository": "https://github.com/coreyhaines31/marketingskills",
+  "source_commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+  "installed_at": "2026-11-21",
+  "license": "MIT",
+  "method": "Vendored copies of the five selected upstream skill directories; no installer scripts executed.",
+  "skills": [
+    {
+      "name": "seo-audit",
+      "path": ".agents/skills/seo-audit",
+      "version": "2.2.9"
+    },
+    {
+      "name": "content-strategy",
+      "path": ".agents/skills/content-strategy",
+      "version": "2.1.8"
+    },
+    {
+      "name": "copywriting",
+      "path": ".agents/skills/copywriting",
+      "version": "2.3.6"
+    },
+    {
+      "name": "cro",
+      "path": ".agents/skills/cro",
+      "version": "2.0.6"
+    },
+    {
+      "name": "schema",
+      "path": ".agents/skills/schema",
+      "version": "2.0.5"
+    }
+  ],
+  "files": [
+    {
+      "path": ".agents/skills/content-strategy/SKILL.md",
+      "source_path": "skills/content-strategy/SKILL.md",
+      "source_git_blob_sha": "61a9c7ad6dd9ec215d28f8bfe72820ab3f6a1023"
+    },
+    {
+      "path": ".agents/skills/content-strategy/evals/evals.json",
+      "source_path": "skills/content-strategy/evals/evals.json",
+      "source_git_blob_sha": "23310228166d5b0bf579299c40e9a5e4b33d5779"
+    },
+    {
+      "path": ".agents/skills/content-strategy/references/content-distribution.md",
+      "source_path": "skills/content-strategy/references/content-distribution.md",
+      "source_git_blob_sha": "6f4a3c38a15e9949727ebcf621f0054710a02a83"
+    },
+    {
+      "path": ".agents/skills/content-strategy/references/headless-cms.md",
+      "source_path": "skills/content-strategy/references/headless-cms.md",
+      "source_git_blob_sha": "fa01433bf3b29a33fef40c3a580a6087495d3fcc"
+    },
+    {
+      "path": ".agents/skills/copywriting/SKILL.md",
+      "source_path": "skills/copywriting/SKILL.md",
+      "source_git_blob_sha": "d70d0b8855f2dc1ed06b9d72a373cdc448ed4e8e"
+    },
+    {
+      "path": ".agents/skills/copywriting/evals/evals.json",
+      "source_path": "skills/copywriting/evals/evals.json",
+      "source_git_blob_sha": "f903d8b9db5b201c71589278aff29bf3293043fa"
+    },
+    {
+      "path": ".agents/skills/copywriting/references/ai-tells.md",
+      "source_path": "skills/copywriting/references/ai-tells.md",
+      "source_git_blob_sha": "0a93ab3b88fc2c683ff6280db187644a7aa04612"
+    },
+    {
+      "path": ".agents/skills/copywriting/references/copy-frameworks.md",
+      "source_path": "skills/copywriting/references/copy-frameworks.md",
+      "source_git_blob_sha": "c19bc984e6f64e89d7c234ee110a368e60284ab4"
+    },
+    {
+      "path": ".agents/skills/copywriting/references/natural-transitions.md",
+      "source_path": "skills/copywriting/references/natural-transitions.md",
+      "source_git_blob_sha": "5fba31a5d3bf0f35a9cc62605af5ceaa454a6186"
+    },
+    {
+      "path": ".agents/skills/cro/SKILL.md",
+      "source_path": "skills/cro/SKILL.md",
+      "source_git_blob_sha": "194df7e3b26a7ce523739053c06605cc22622a14"
+    },
+    {
+      "path": ".agents/skills/cro/evals/evals.json",
+      "source_path": "skills/cro/evals/evals.json",
+      "source_git_blob_sha": "a7393125c1cc757e111cd0d2e29ff7f5a071de31"
+    },
+    {
+      "path": ".agents/skills/cro/references/experiments.md",
+      "source_path": "skills/cro/references/experiments.md",
+      "source_git_blob_sha": "abc31c716ec966c9c6c9a12ca3e8b076ce3ea320"
+    },
+    {
+      "path": ".agents/skills/cro/references/form.md",
+      "source_path": "skills/cro/references/form.md",
+      "source_git_blob_sha": "56f6e03e28f3d6193316552ca840d26b66a89c79"
+    },
+    {
+      "path": ".agents/skills/schema/SKILL.md",
+      "source_path": "skills/schema/SKILL.md",
+      "source_git_blob_sha": "a152e5e59496740caf18ba0f0c74f4ef0e383c39"
+    },
+    {
+      "path": ".agents/skills/schema/evals/evals.json",
+      "source_path": "skills/schema/evals/evals.json",
+      "source_git_blob_sha": "c679cb253c26f81166b068b4e52cf04acd0cb093"
+    },
+    {
+      "path": ".agents/skills/schema/references/schema-examples.md",
+      "source_path": "skills/schema/references/schema-examples.md",
+      "source_git_blob_sha": "014b5292ce46184a5cde223d3a528b3e48397b8f"
+    },
+    {
+      "path": ".agents/skills/seo-audit/SKILL.md",
+      "source_path": "skills/seo-audit/SKILL.md",
+      "source_git_blob_sha": "1a4fd7536e099e24f841444f621497fc8fd1d768"
+    },
+    {
+      "path": ".agents/skills/seo-audit/evals/evals.json",
+      "source_path": "skills/seo-audit/evals/evals.json",
+      "source_git_blob_sha": "d569ae70cf4746f7a27e7808abbaea4878c27fd7"
+    },
+    {
+      "path": ".agents/skills/seo-audit/references/ai-writing-detection.md",
+      "source_path": "skills/seo-audit/references/ai-writing-detection.md",
+      "source_git_blob_sha": "cb67ece4135f4153575bbbdfbf722364babff61d"
+    },
+    {
+      "path": ".agents/skills/seo-audit/references/international-seo.md",
+      "source_path": "skills/seo-audit/references/international-seo.md",
+      "source_git_blob_sha": "35a7ad2aeadcbef2541563b0077d5f717e4b147d"
+    },
+    {
+      "path": ".agents/skills/seo-audit/references/local-seo-pages-and-measurement.md",
+      "source_path": "skills/seo-audit/references/local-seo-pages-and-measurement.md",
+      "source_git_blob_sha": "d49f0443e091c70e4778a4e33030a33d18a361a4"
+    },
+    {
+      "path": ".agents/skills/seo-audit/references/local-seo-profile-and-citations.md",
+      "source_path": "skills/seo-audit/references/local-seo-profile-and-citations.md",
+      "source_git_blob_sha": "d34b7e043cb7c4d2da114f04e986bd476a22d0c6"
+    },
+    {
+      "path": ".agents/skills/seo-audit/references/local-seo.md",
+      "source_path": "skills/seo-audit/references/local-seo.md",
+      "source_git_blob_sha": "c2636ada98809d6ed8db588040817adc332add5e"
+    },
+    {
+      "path": ".agents/skills/seo-audit/references/rankings-push.md",
+      "source_path": "skills/seo-audit/references/rankings-push.md",
+      "source_git_blob_sha": "3d074afe1278ffcb34407b3fa37f8082bad6efab"
+    },
+    {
+      "path": ".agents/skills/seo-audit/references/title-tags.md",
+      "source_path": "skills/seo-audit/references/title-tags.md",
+      "source_git_blob_sha": "5d5eac8002179ac5288f3b4bbd2aa35b3a409a42"
+    }
+  ],
+  "license_file": ".agents/skills/marketingskills.LICENSE"
+}

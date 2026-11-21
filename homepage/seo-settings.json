@@ -1,0 +1,24 @@
+{
+  "title": "Digital Marketing Medan | Dita Febiyan Pratiwi",
+  "description": "Jasa digital marketing Medan bersama Dita Febiyan Pratiwi. Bahas kebutuhan SEO, Google Ads, Meta Ads, optimasi website, kursus, dan konsultasi bisnis Anda.",
+  "canonical": "https://ditafebiyanpratiwi.com/",
+  "primaryKeyword": "digital marketing medan",
+  "openGraph": {
+    "title": "Digital Marketing Medan | Dita Febiyan Pratiwi",
+    "description": "Jasa digital marketing Medan bersama Dita Febiyan Pratiwi. Bahas kebutuhan SEO, Google Ads, Meta Ads, optimasi website, kursus, dan konsultasi bisnis Anda.",
+    "image": "https://ditafebiyanpratiwi.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-07-at-16.39.54.jpeg"
+  },
+  "contactConfigured": false,
+  "publishReady": false,
+  "missingConfiguration": [
+    "Nomor WhatsApp pemilik"
+  ],
+  "schemaGuidance": {
+    "profile": "Person",
+    "services": "Service jika sesuai dengan konten halaman",
+    "breadcrumbs": "Pertahankan BreadcrumbList Yoast jika relevan",
+    "note": "Tinjau output Yoast sebelum menambahkan JSON-LD. Jangan memasang duplikat, alamat fiktif, atau rating yang tidak didukung."
+  },
+  "previewRobots": "noindex,nofollow",
+  "productionRobots": "Atur index,follow hanya setelah halaman final, kontak aktif, dan pengaturan WordPress/Yoast diperiksa."
+}

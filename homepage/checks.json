@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-21",
+  "status": "static-checks-passed",
+  "contactConfigured": false,
+  "publishReady": false,
+  "widgets": 100,
+  "containers": 62,
+  "h1Count": 1,
+  "anchorCount": 12,
+  "allowedWidgets": [
+    "heading",
+    "text-editor",
+    "button",
+    "image"
+  ],
+  "contrasts": [
+    {
+      "pair": "Body / putih",
+      "ratio": 7.69
+    },
+    {
+      "pair": "Navy / gold",
+      "ratio": 8.05
+    },
+    {
+      "pair": "Teks terang / navy",
+      "ratio": 15
+    },
+    {
+      "pair": "Gold / navy",
+      "ratio": 8.05
+    }
+  ],
+  "errors": [],
+  "renderTest": "NOT RUN: WordPress/Elementor import and visual browser QA. Responsive control values are present but not a render test.",
+  "pending": [
+    "Konfirmasi dan konfigurasi nomor WhatsApp.",
+    "Impor ke halaman draf Elementor dan uji desktop/mobile di WordPress."
+  ],
+  "checksums": {
+    "elementor-homepage.json": "ebe1341f246845081b883a2fc1666d645a86e4a72b74a572bff56580947c8b10",
+    "index.html": "fd1cdaa7e8595313876d1dd71d3f08678bcbb2598f260c39fe7385e242d2c45f",
+    "optional.css": "ea1e4919b99b38c828a92c4473dc69ddb7fa80c7f4b2472b720825ea988bdd16",
+    "seo-settings.json": "811e1a061dd0442045f5df531ca85b9b31229f3c9839eb87ac2e2bdc0e62726b",
+    "content.json": "9ad5e8e20929dae8dfc196189008b45dc232db3ba4e09609f519d6b997781c64"
+  }
+}

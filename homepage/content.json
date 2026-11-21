@@ -1,0 +1,121 @@
+{
+  "brand": "Dita Febiyan Pratiwi",
+  "role": "Digital Marketing & SEO Strategist",
+  "website": "https://ditafebiyanpratiwi.com/",
+  "portrait": "https://ditafebiyanpratiwi.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-07-at-16.39.54.jpeg",
+  "portraitAlt": "Dita Febiyan Pratiwi, Digital Marketing dan SEO Strategist di Medan",
+  "seo": {
+    "title": "Digital Marketing Medan | Dita Febiyan Pratiwi",
+    "description": "Jasa digital marketing Medan bersama Dita Febiyan Pratiwi. Bahas kebutuhan SEO, Google Ads, Meta Ads, optimasi website, kursus, dan konsultasi bisnis Anda.",
+    "canonical": "https://ditafebiyanpratiwi.com/",
+    "primaryKeyword": "digital marketing medan"
+  },
+  "nav": [
+    { "text": "Layanan", "href": "#layanan" },
+    { "text": "Pengalaman", "href": "#pengalaman" },
+    { "text": "Tentang", "href": "#tentang" },
+    { "text": "Konsultasi", "href": "#konsultasi" }
+  ],
+  "hero": {
+    "eyebrow": "DITA FEBIYAN PRATIWI · MEDAN",
+    "title": "Digital Marketing Medan untuk pertumbuhan bisnis Anda",
+    "description": "Saya membantu bisnis menyusun strategi SEO, Google Ads, Meta Ads, dan optimasi website. Setiap rencana dimulai dari tujuan bisnis dan data yang tersedia.",
+    "primaryCta": "Diskusikan kebutuhan Anda",
+    "secondaryCta": "Lihat pengalaman saya",
+    "note": "Jasa freelance, kursus, dan konsultasi digital marketing.",
+    "portraitCaption": "Dita Febiyan Pratiwi",
+    "portraitDetail": "Digital Marketing & SEO Strategist",
+    "experience": "3+ tahun pengalaman"
+  },
+  "services": {
+    "eyebrow": "LAYANAN",
+    "title": "Pilih bantuan sesuai kebutuhan Anda",
+    "description": "Pengelolaan pemasaran, pendampingan strategi, atau belajar digital marketing. Kita mulai dari kebutuhan yang paling mendesak.",
+    "items": [
+      {
+        "category": "UNTUK BISNIS",
+        "title": "Freelance digital marketing",
+        "text": "Dukungan SEO, Google Ads, Meta Ads, dan perbaikan website dengan ruang lingkup pekerjaan yang disepakati sejak awal.",
+        "details": ["SEO dan strategi konten", "Pengelolaan iklan digital", "Optimasi halaman website"],
+        "cta": "Bahas kebutuhan bisnis",
+        "inquiry": "jasa digital marketing"
+      },
+      {
+        "category": "UNTUK BELAJAR",
+        "title": "Kursus digital marketing",
+        "text": "Bahas kebutuhan belajar SEO, iklan digital, dan analisis pemasaran. Materi disesuaikan dengan pengetahuan awal serta tujuan Anda.",
+        "details": ["Pemula dan mahasiswa", "Karyawan dan pemilik bisnis", "Topik sesuai kebutuhan belajar"],
+        "cta": "Tanyakan program belajar",
+        "inquiry": "kursus digital marketing"
+      },
+      {
+        "category": "UNTUK MENENTUKAN ARAH",
+        "title": "Konsultasi digital marketing",
+        "text": "Tinjau kendala pemasaran yang Anda hadapi, identifikasi data yang perlu diperiksa, dan susun prioritas tindakan berikutnya.",
+        "details": ["Evaluasi SEO dan website", "Tinjauan Google Ads dan Meta Ads", "Prioritas perbaikan pemasaran"],
+        "cta": "Diskusikan kendala Anda",
+        "inquiry": "konsultasi digital marketing"
+      }
+    ]
+  },
+  "expertise": {
+    "eyebrow": "FOKUS PEKERJAAN",
+    "title": "Hubungkan pencarian, iklan, dan website",
+    "items": [
+      { "title": "SEO & pencarian lokal", "text": "Audit teknis, struktur halaman, dan relevansi konten untuk kebutuhan pencarian pelanggan di Medan." },
+      { "title": "Google Ads", "text": "Peninjauan keyword, search terms, materi iklan, dan halaman tujuan berdasarkan data kampanye." },
+      { "title": "Meta Ads", "text": "Penyusunan angle, audiens, serta pengujian creative sesuai tujuan kampanye dan penawaran bisnis." },
+      { "title": "Optimasi website", "text": "Perbaikan keterbacaan, navigasi, CTA, dan pengalaman mobile pada halaman yang dikunjungi calon pelanggan." },
+      { "title": "Strategi konten SEO", "text": "Pemetaan topik dan internal link agar artikel mendukung halaman layanan serta menjawab pertanyaan pelanggan." },
+      { "title": "Analisis pemasaran", "text": "Pembacaan laporan untuk memisahkan hasil terukur, dugaan penyebab, dan hal yang masih perlu diuji." }
+    ]
+  },
+  "experience": {
+    "eyebrow": "PENGALAMAN",
+    "title": "Kebutuhan berbeda di setiap industri",
+    "description": "Berikut lingkup pekerjaan yang pernah saya tangani. Bukti hasil dan periode pengukuran dibahas berdasarkan laporan yang dapat diverifikasi.",
+    "items": [
+      { "industry": "PENDIDIKAN", "name": "Harford Institute", "role": "SEO & digital marketing", "text": "Strategi SEO, pencarian lokal, Google Ads, Meta Ads, optimasi konten, dan evaluasi performa pemasaran." },
+      { "industry": "PERALATAN INDUSTRI", "name": "Mingyu Indonesia", "role": "Digital marketing", "text": "SEO, Google Ads, Meta Ads, perbaikan website, dan aktivitas pemasaran untuk kebutuhan lead B2B." },
+      { "industry": "JASA AC", "name": "Aulia Berkah Utama", "role": "Local SEO & website", "text": "Optimasi pencarian lokal, pengelolaan website, pembuatan konten, media sosial, dan aktivitas lead generation." }
+    ]
+  },
+  "about": {
+    "eyebrow": "TENTANG DITA",
+    "title": "Strategi yang bisa Anda pahami dan evaluasi",
+    "paragraphs": [
+      "Saya Dita Febiyan Pratiwi, Digital Marketing & SEO Strategist dengan pengalaman lebih dari 3 tahun. Saya pernah menangani kebutuhan pemasaran di bidang pendidikan, jasa, dan B2B.",
+      "Latar belakang pendidikan Informatika dan pengalaman mengajar membentuk cara saya menjelaskan pekerjaan digital secara terstruktur. Saya membantu Anda memahami prioritas, alasan perubahan, dan data yang perlu dilihat.",
+      "Fokus saya mencakup SEO, paid advertising, dan optimasi website. Ruang lingkup pekerjaan disusun mengikuti kondisi bisnis Anda."
+    ],
+    "cta": "Ceritakan tujuan bisnis Anda"
+  },
+  "process": {
+    "eyebrow": "CARA KERJA",
+    "title": "Mulai dari tujuan bisnis Anda",
+    "items": [
+      { "title": "Pahami kebutuhan", "text": "Bahas produk, audiens, tujuan, dan kendala pemasaran yang sedang dihadapi." },
+      { "title": "Susun prioritas", "text": "Tentukan pekerjaan yang perlu didahulukan berdasarkan data serta sumber daya yang tersedia." },
+      { "title": "Kerjakan rencana", "text": "Jalankan lingkup pekerjaan yang disepakati dengan arah dan tanggung jawab yang jelas." },
+      { "title": "Evaluasi hasil", "text": "Tinjau pengukuran, catat pembelajaran, dan tentukan perbaikan berikutnya." }
+    ]
+  },
+  "faq": {
+    "eyebrow": "SEBELUM MEMULAI",
+    "title": "Pertanyaan yang perlu dibahas",
+    "items": [
+      { "question": "Apakah saya bisa memilih layanan SEO saja?", "answer": "Bisa. SEO, Google Ads, Meta Ads, dan perbaikan website dapat dibahas sebagai kebutuhan tersendiri. Ruang lingkup dipilih sesuai kondisi bisnis Anda." },
+      { "question": "Apa yang perlu disiapkan untuk konsultasi?", "answer": "Siapkan alamat website, gambaran produk atau jasa, tujuan pemasaran, dan kendala yang ingin dibahas. Laporan yang sudah dimiliki dapat membantu peninjauan." },
+      { "question": "Apakah SEO dijamin masuk peringkat pertama?", "answer": "Peringkat pencarian dipengaruhi persaingan, kondisi website, dan perubahan mesin pencari. Pekerjaan SEO perlu dinilai dari perbaikan yang dilakukan serta data hasilnya, dengan periode pengukuran yang jelas." },
+      { "question": "Apakah anggaran iklan sama dengan biaya jasa?", "answer": "Anggaran iklan, biaya jasa, dan kebutuhan tools perlu dibahas terpisah dalam penawaran. Rinciannya disepakati sebelum pekerjaan dimulai." },
+      { "question": "Apakah kursus cocok untuk pemula?", "answer": "Kebutuhan belajar pemula, mahasiswa, karyawan, dan pemilik bisnis dapat dibahas terlebih dahulu. Materi, format, biaya, dan jadwal dikonfirmasi sebelum pendaftaran." }
+    ]
+  },
+  "contact": {
+    "eyebrow": "MULAI PERCAKAPAN",
+    "title": "Apa yang ingin Anda perbaiki dari pemasaran bisnis Anda?",
+    "text": "Ceritakan bisnis Anda, alamat website, dan kebutuhan utama. Kita bisa mulai dari SEO, iklan digital, website, konsultasi, atau kebutuhan belajar.",
+    "cta": "Konsultasi via WhatsApp",
+    "note": "Ruang lingkup, biaya, dan langkah berikutnya dibahas sebelum pekerjaan dimulai."
+  }
+}

@@ -1,0 +1,8 @@
+/* Opsional. Tempel di Appearance > Customize > Additional CSS. Semua aturan dibatasi ke homepage baru. */
+.dfp-home [id]{scroll-margin-top:24px}
+.dfp-home a:focus-visible{outline:3px solid #2563EB;outline-offset:5px}
+.dfp-home .elementor-button{min-height:44px;display:inline-flex;align-items:center;justify-content:center}
+.dfp-home .elementor-widget-text-editor p:last-child{margin-bottom:0}
+.dfp-home .elementor-widget-text-editor ul{margin-block:0;padding-inline-start:20px}
+.dfp-home .elementor-widget-image img{display:block}
+@media(prefers-reduced-motion:reduce){.dfp-home *{animation:none!important;transition:none!important}}
